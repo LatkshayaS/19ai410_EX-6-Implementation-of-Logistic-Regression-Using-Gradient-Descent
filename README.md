@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# 19AI410_EX6-Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
